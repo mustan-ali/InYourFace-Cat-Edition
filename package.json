@@ -3,7 +3,7 @@
   "displayName": "In Your Face: Cat Edition",
   "description": "In Your Face: Cat Edition, shows you 'Cat Faces' that correlate to the number of errors in your code!",
   "version": "1.0.0",
-  "publisher": "Mustan Ali",
+  "publisher": "mustan",
   "homepage": "https://github.com/mustan-ali",
   "license": "MIT",
   "repository": {
@@ -28,6 +28,7 @@
     "error count"
   ],
   "__metadata": {
+    "publisherId": "12e5df13-44a8-42cd-9598-e4452559295f",
     "publisherDisplayName": "Mustan Ali"
   },
   "activationEvents": [
